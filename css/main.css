@@ -62,3 +62,25 @@ main .main-logo {
 main .main-logo img {
   width: 550px;
 }
+
+main .main-input {
+  width: 530px;
+  margin: 0 auto;
+  margin-bottom: 35px;
+}
+
+main .main-input-container {
+  width: 525px;
+  border-radius: 100px;
+  border: 1px solid #dfe1e5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main .main-input-container input{
+  width: 450px;
+  height: 40px;
+  border: none;
+  outline: none;
+}
