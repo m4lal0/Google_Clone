@@ -1,4 +1,4 @@
-# Google_Clone
+# Sitio de Google (Clone)
 Clone del sitio web de inicio de Google, para practicar con HTML y CSS.
 
 ## Construido con 🛠️
@@ -6,7 +6,7 @@ Clone del sitio web de inicio de Google, para practicar con HTML y CSS.
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [HTML 5](https://www.w3schools.com/html/default.asp) - Html
-* [CSS 3](https://www.w3schools.com/css/default.asp) - Estilos para paginas web
+* [CSS 3](https://www.w3schools.com/css/default.asp) - Estilos para páginas web
 * [Visual Studio Code](https://code.visualstudio.com/) - IDE de desarrollo
 
 ### Vista preliminar 🚀
