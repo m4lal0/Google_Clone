@@ -11,7 +11,7 @@ _Estas son las herramientas usadas para desarrollar el sitio:_
 
 ### Vista preliminar 🚀
 
-_En este sitio se puede ver la vista preliminar del sitio del clone de Google: [Google_Clone.com](https://mariocerrillo.github.io/Google_Clone/) ._
+_En este sitio se puede ver la vista preliminar del sitio del clone de Google: [Google_Clone.com](https://m4lal0.github.io/Google_Clone/) ._
 
 ---
-⌨️ con ❤️ por [MarioCerrillo](https://github.com/MarioCerrillo)
+⌨️ con ❤️ por [MarioCerrillo](https://github.com/m4lal0)
